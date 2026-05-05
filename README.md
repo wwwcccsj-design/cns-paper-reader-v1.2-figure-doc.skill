@@ -13,4 +13,4 @@
 - 组会汇报稿
 - 一页纸总结
 
-👉 [查看项目仓库](这里替换成你的仓库链接)
+👉 [查看项目仓库]([这里替换成你的仓库链接](https://github.com/wwwcccsj-design/cns-paper-reader-v1.2-figure-doc.skill.git))
